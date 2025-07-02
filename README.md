@@ -54,5 +54,7 @@ The app utilizes internet connection for API requests.
 tkinter comes pre-installed with Python, so don't include it in requirements.txt.
 
 
+
+
 License
 MIT License © Zachary Burrice
