@@ -17,15 +17,18 @@ Intuitive Tkinter interface for input and output
 
 Clone the repo
 
-git clone https://github.com/yourusername/yourrepo.git
+git clone [https://github.com/yourusername/yourrepo.git](https://github.com/zacharyburricepython/reddit-scraper-ai)
 
-cd yourrepo
+cd reddit-scraper-ai
 
 Create a .env file at the root of the project with your API keys:
 
 REDDIT_CLIENT_ID=your_reddit_client_id
+
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
+
 REDDIT_USER_AGENT=your_user_agent
+
 GENAI_API_KEY=your_gemini_api_key
 
 **Install requirements**
